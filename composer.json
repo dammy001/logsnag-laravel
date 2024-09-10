@@ -18,7 +18,7 @@
         "orchestra/testbench": "^8",
         "phpstan/phpstan": "^1.10.42",
         "laravel/pint": "^1.13.6",
-        "pestphp/pest": "^2.0.0",
+        "pestphp/pest": "^3.0.0",
         "phpunit/phpunit": "^10"
     },
     "scripts": {
